@@ -5,15 +5,16 @@ Technologies Used ------
 
 Frontend:
 React: For building the user interface.
+React-Leaflet: For rendering interactive maps and location-based data.
 Context API: Used for state management to handle user authentication and other global states effectively.
-Tailwind CSS: (Optional) For streamlined and responsive UI design.
+Tailwind CSS: For streamlined and responsive UI design.
 
 Backend:
 Node.js: For server-side logic and handling API requests.
 Express: A fast and lightweight framework for building robust APIs.
 JWT: For secure authentication and user session management.
-Other Tools:
 
+Other Tools:
 MapTiler API: For fetching location data and mapping services.
 
 Running the Frontend -----
