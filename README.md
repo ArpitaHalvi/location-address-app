@@ -15,6 +15,7 @@ Express: A fast and lightweight framework for building robust APIs.
 JWT: For secure authentication and user session management.
 
 Other Tools:
+
 MapTiler API: For fetching location data and mapping services.
 
 Running the Frontend -----
